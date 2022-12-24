@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataTransActivity</string>
+    <string name="open_dlg">Open dialog</string>
+    <string name="close_app">Close app</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="open_dlgwindow">Open dialog window</string>
+</resources>
